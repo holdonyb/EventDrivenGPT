@@ -1,7 +1,6 @@
-# EventDrivenGPT Project
+# Chatbot Roles Project
 
 * This project is written with GPT-4 and GPT-3.5-Turbo (almost totally by GPT-4 actually)
-
 
 This project provides a framework for creating an event-driven system using OpenAI's ChatGPT as different roles, to develop a new project automatically. The roles include End User, Project Manager, Product Manager, Programmer, Debugger, Tester, and Executor.
 
