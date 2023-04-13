@@ -1,4 +1,4 @@
-# Chatbot Roles Project
+# Chatbot Roles Project \[Under development, NOT READY YET\]
 
 * This project is written with GPT-4 and GPT-3.5-Turbo (almost totally by GPT-4 actually)
 
