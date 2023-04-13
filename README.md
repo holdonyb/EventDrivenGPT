@@ -1,6 +1,6 @@
 # Chatbot Roles Project \[NOT READY YET\]
 
-** This project is written with GPT-4 and GPT-3.5-Turbo
+** This project is written with (by actually) GPT-4 and GPT-3.5-Turbo
 
 This project provides a framework for creating chatbots with different roles, such as Idea Generator, Programmer, Translator, and Executor. These chatbots interact with users and perform tasks related to their roles.
 
